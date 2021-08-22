@@ -1,0 +1,8 @@
+Semantic segmentation
+
+dataset
+	find good pictures of trees
+		outline them
+			photoshop, paint
+	3d 
+	

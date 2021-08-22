@@ -1,0 +1,1 @@
+(CNN_python363) C:\Users\noopnoop\Desktop\neural-style-master>python neural_style.py --content examples\content\keep-front.jpg --styles examples\style\disney1.jpg --output examples\final\keep-front-disney1.jpg --style-layer-weight-exp 0.5 --pooling avg --preserve-colors
